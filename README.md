@@ -2,7 +2,7 @@
 
 A RAG-powered support chatbot that answers questions about the [Next.js App Router documentation](https://nextjs.org/docs/app) — grounded in real docs content, with source citations, not hallucinated from memory.
 
-**Live demo:** _add your Vercel URL here after deploying_
+**Live demo:** [nextjs-docs-assistant.vercel.app](https://nextjs-docs-assistant.vercel.app/)
 
 ![Chat demo](docs/screenshot.png)
 
